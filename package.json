@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate-express",
+  "name": "TicTacToe-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "Webservice of Tictactoe",
   "main": "dist/index.js",
   "scripts": {
     "prebuild": "tslint -c tslint.json -p tsconfig.json --fix",
