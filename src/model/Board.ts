@@ -33,7 +33,6 @@ export class Board {
         x++;
         y++;
         const z = ((y - 1) * 3)  + x;
-        console.log(`z = ${z}`);
         return z - 1;
     }
 }
